@@ -1,3 +1,4 @@
+利用机器智能生成音乐和美术艺术品
 <img src="magenta-logo-bg.png" height="75">
 
 **Magenta** is a project from the [Google Brain team](https://research.google.com/teams/brain/)
